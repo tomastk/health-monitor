@@ -1,4 +1,4 @@
-# HeartMonitor App
+# Health Monitor App
 
 ## Integrantes
 
