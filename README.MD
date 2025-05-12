@@ -8,7 +8,7 @@ Gonzalo Dos Santos, Javier Fleitas, Sol Kruzolek, Sebastian Frias, Fabián Fría
 
 HeartMonitor App es un sistema de monitoreo de salud cardíaca compuesto por un sensor de pulso cardíaco MAX30102 conectado a un microcontrolador ESP32. Los datos son transmitidos a una aplicación móvil desarrollada en AppInventor, utilizando Bluetooth Low Energy (BLE). El sistema permite medir la frecuencia cardíaca y la saturación de oxígeno en sangre (SpO2), almacenar las mediciones y generar recordatorios automáticos.
 
-##Componentes del Sistema
+## Componentes del Sistema
 
 ### Hardware:
 
